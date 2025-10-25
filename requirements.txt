@@ -8,4 +8,5 @@ scikit-learn
 seaborn
 matplotlib
 werkzeug
+gunicorn
 Flask-WTF

@@ -1,0 +1,11 @@
+Flask
+torch
+torchvision
+Pillow
+numpy
+opencv-python
+scikit-learn
+seaborn
+matplotlib
+werkzeug
+Flask-WTF
